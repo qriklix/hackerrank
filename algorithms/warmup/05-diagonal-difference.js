@@ -6,8 +6,8 @@ function diagonalDifference(a) {
 
   for (i = 0; i < n; i++) {
     primaryDiagonal += a[i][i]
-    secondaryDiagonal += a[n - i - 1][n - i - 1]
+    secondaryDiagonal += a[i][n - i - 1]
   }
 
-  console.log(primaryDiagonal, secondaryDiagonal)
+  return (Math.abs(primaryDiagonal - secondaryDiagonal))
 }
