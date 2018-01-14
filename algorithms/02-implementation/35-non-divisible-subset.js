@@ -15,7 +15,7 @@ function nonDivisibleSubset(k, arr) {
   }
 
   if (k % 2 === 0) {
-    count += moduli[k / 2]
+    count++
   }
 
   return count
