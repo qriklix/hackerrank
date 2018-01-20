@@ -15,3 +15,5 @@ Medium difficulty
 5. 30 points [Encryption](https://github.com/qriklix/hackerrank/blob/master/algorithms/02-implementation/43-encryption.js) ([problem](https://www.hackerrank.com/challenges/encryption/problem))
 
 6. 35 points [Bigger is Greater](https://github.com/qriklix/hackerrank/blob/master/algorithms/02-implementation/44-bigger-is-greater.js) ([problem](https://www.hackerrank.com/challenges/bigger-is-greater/problem))
+
+7. 25 points [The Time in Words](https://github.com/qriklix/hackerrank/blob/master/algorithms/02-implementation/48-the-time-in-words.js) ([problem](https://www.hackerrank.com/challenges/the-time-in-words/problem))
