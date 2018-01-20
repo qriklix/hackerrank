@@ -11,3 +11,5 @@ Medium difficulty
 3. 30 points [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem) ([solution](https://github.com/qriklix/hackerrank/blob/master/algorithms/02-implementation/39-queens-attack-2.js))
 
 4. 30 points [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) ([solution](https://github.com/qriklix/hackerrank/blob/master/algorithms/02-implementation/42-organizing-containers-of-balls.js))
+
+5. 30 points [Encryption](https://www.hackerrank.com/challenges/encryption/problem) ([solution](https://github.com/qriklix/hackerrank/blob/master/algorithms/02-implementation/43-encryption.js))
