@@ -13,3 +13,5 @@ Medium difficulty
 4. 30 points [Organizing Containers of Balls](https://github.com/qriklix/hackerrank/blob/master/algorithms/02-implementation/42-organizing-containers-of-balls.js) ([problem](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem))
 
 5. 30 points [Encryption](https://github.com/qriklix/hackerrank/blob/master/algorithms/02-implementation/43-encryption.js) ([problem](https://www.hackerrank.com/challenges/encryption/problem))
+
+6. 35 points [Bigger is Greater](https://github.com/qriklix/hackerrank/blob/master/algorithms/02-implementation/44-bigger-is-greater.js) ([problem](https://www.hackerrank.com/challenges/bigger-is-greater/problem))
