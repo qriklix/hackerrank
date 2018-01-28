@@ -19,3 +19,5 @@ Medium difficulty
 7. 25 points [The Time in Words](https://github.com/qriklix/hackerrank/blob/master/algorithms/02-implementation/48-the-time-in-words.js) ([problem](https://www.hackerrank.com/challenges/the-time-in-words/problem))
 
 8. 30 points [The Grid Search](https://github.com/qriklix/hackerrank/blob/master/algorithms/02-implementation/56-the-grid-search.js) ([problem](https://www.hackerrank.com/challenges/the-grid-search/problem))
+
+9. 40 points [Absolute Permutation](https://github.com/qriklix/hackerrank/blob/master/algorithms/02-implementation/59-absolute-permutation.js) ([problem](https://www.hackerrank.com/challenges/absolute-permutation/problem))
