@@ -23,3 +23,5 @@ Medium difficulty
 9. 40 points [Absolute Permutation](https://github.com/qriklix/hackerrank/blob/master/algorithms/02-implementation/59-absolute-permutation.js) ([problem](https://www.hackerrank.com/challenges/absolute-permutation/problem))
 
 10. 40 points [The Bomberman Game](https://github.com/qriklix/hackerrank/blob/master/algorithms/02-implementation/60-bomber-man.js) ([problem](https://www.hackerrank.com/challenges/bomber-man/problem))
+
+11. 40 points [Ema's Supercomputer](https://github.com/qriklix/hackerrank/blob/master/algorithms/02-implementation/61-two-pluses.js) ([problem](https://www.hackerrank.com/challenges/two-pluses/problem))
