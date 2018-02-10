@@ -25,3 +25,5 @@ Medium difficulty
 10. 40 points [The Bomberman Game](https://github.com/qriklix/hackerrank/blob/master/algorithms/02-implementation/60-bomber-man.js) ([problem](https://www.hackerrank.com/challenges/bomber-man/problem))
 
 11. 40 points [Ema's Supercomputer](https://github.com/qriklix/hackerrank/blob/master/algorithms/02-implementation/61-two-pluses.js) ([problem](https://www.hackerrank.com/challenges/two-pluses/problem))
+
+12. 40 points [Larry's Array](https://github.com/qriklix/hackerrank/blob/master/algorithms/02-implementation/62-larrys-array.js) ([problem](https://www.hackerrank.com/challenges/larrys-array/problem))
